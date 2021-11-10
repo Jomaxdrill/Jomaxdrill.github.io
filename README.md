@@ -1,2 +1,2 @@
 # jomaxdrill.github.io
-Example of basic PWA 
+Example of basic creation of PWA 
